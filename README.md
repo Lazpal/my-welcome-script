@@ -16,4 +16,4 @@ version '1.0.0'
 
 ## Άδεια
 
-Το σενάριο είναι υπό την άδεια [MIT License](https://opensource.org/licenses/MIT).
+Το σενάριο είναι υπό την άδεια [lLAZPAL License].
